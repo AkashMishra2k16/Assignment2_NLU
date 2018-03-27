@@ -1,6 +1,5 @@
-# NLU_assignment
-There are 3 files attached with it among which two are codes written and another one is Report of the assignment.
-<br>   a.) Simple Backoff Algorithm is applied in the File , named "NLU_Backoff.py". To run this file use python3 "NLU_Backoff.py" </br>
- <br>  b.) Katz's Backoff Algorithm is applied in the File , named "Katz_Backoff.py". To run this file use python3 "Katz_Backoff.py" </br>
-<br>   c.) "NLU_Report.pdf" contains the report of the experiment which contains a brief description of what and how to do and the results obtained. </br>
+# NLU_assignment2
+The homepage contains a folder named assignment2 in which there are 4 .py files each for char_lvl perplexity, char_lvl_sent_generation, word_lvl_perplexity and word_lvl_sent_generation.
+<br>there are two .sh files each for sentance generation from character level model and for sentance generation from word level model</br>
+<br> there is another file which is report of the assignment. </br>
    
